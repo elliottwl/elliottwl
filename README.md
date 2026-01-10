@@ -8,6 +8,6 @@ Previously I was a summer AI Research Intern @ [`Google DeepMind Research Ready 
 ## Projects & Publications
 
 - The AnIML Ontology: Enabling Semantic Interoperability for Large-Scale Experimental Data in Interconnected Scientific Labs  
-  *(currently under review.)* [repo](https://github.com/KE-UniLiv/animl-ontology)
+  *(currently under review.)* [\[repo\]](https://github.com/KE-UniLiv/animl-ontology)
 
 
