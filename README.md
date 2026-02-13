@@ -8,6 +8,6 @@ In 2025, I was a summer AI Research Intern @ [`Google DeepMind Research Ready Pr
 ## Projects & Publications
 
 - The AnIML Ontology: Enabling Semantic Interoperability for Large-Scale Experimental Data in Interconnected Scientific Labs  
-  *(conditionally accepted at CAiSE 2026)* [<a href="https://github.com/KE-UniLiv/animl-ontology">repo</a>]
+  *(conditionally accepted at [`CAiSE 2026`](https://caise26.polimi.it/))* [<a href="https://github.com/KE-UniLiv/animl-ontology">repo</a>]
 
 
