@@ -8,7 +8,7 @@ In 2025, I was a summer AI Research Intern @ [`Google DeepMind Research Ready Pr
 ## Peer-Reviewed Publications
 
 - The AnIML Ontology: Enabling Semantic Interoperability for Large-Scale Experimental Data in Interconnected Scientific Labs \
-  *(conditionally accepted at [`CAiSE 2026`](https://caise26.polimi.it/))* [<a href="https://github.com/KE-UniLiv/animl-ontology">repo</a>]
+  *(Accepted at [`CAiSE 2026`](https://caise26.polimi.it/))* [<a href="https://github.com/KE-UniLiv/animl-ontology">repo</a>]
 
 - IDEA2: Expert-in-the-loop competency question elicitation for collaborative ontology engineering \
   *(under review at [`LLMS4KGOE`](https://koncordantlab.github.io/LLM4KGOE-ESWC/))* [<a href="https://github.com/KE-UniLiv/IDEA2">repo</a>]
