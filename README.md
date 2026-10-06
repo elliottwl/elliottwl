@@ -11,7 +11,9 @@ In 2025, I was a summer AI Research Intern @ [`Google DeepMind Research Ready Pr
   *(In proceedings of the [`38th edition of the International Conference on Advanced Information Systems Engineering (CAiSE)`](https://caise26.polimi.it/))* [<a href="https://github.com/KE-UniLiv/animl-ontology">repo</a>]  [<a href="https://doi.org/10.1007/978-3-032-28110-4_8">paper</a>]
 
 - IDEA2: Expert-in-the-loop competency question elicitation for collaborative ontology engineering \
-  *(Accepted at [`LLMS4KGOE`](https://koncordantlab.github.io/LLM4KGOE-ESWC/) and [`23rd European Semantic Web Conference (ESWC) Demo and Poster track`](https://2026.eswc-conferences.org/calls/poster-demo/))* [<a href="https://github.com/KE-UniLiv/IDEA2">repo</a>] [<a href="[https://arxiv.org/pdf/2604.01344](https://ceur-ws.org/Vol-4246/llms4kgoe-8.pdf)">paper</a>]
+  *(Accepted at [`LLMS4KGOE`](https://koncordantlab.github.io/LLM4KGOE-ESWC/) and [`23rd European Semantic Web Conference (ESWC) Demo and Poster track`](https://2026.eswc-conferences.org/calls/poster-demo/))* [<a href="https://github.com/KE-UniLiv/IDEA2">repo</a>] [<a href="https://ceur-ws.org/Vol-4246/llms4kgoe-8.pdf">paper</a>]
+  
+
 
 - A Collaborative Human-AI Workflow for Ontology Requirement Engineering in Use \
   *(Accepted at the [`25th edition of the International Semantic Web Conference (ISWC)`](https://iswc2026.semanticweb.org/#/))*
