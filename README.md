@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a [`BSc (Hons) Computer Science (Artificial Intelligence)`](https://www.liverpool.ac.uk/courses/computer-science-bsc-hons-artificial-intelligence-pathway-2) graduate from the [`University of Liverpool`](https://www.liverpool.ac.uk/courses/computer-science-bsc-hons), working towards an MSc in [`Advanced Data Science and Artificial Intelligence`](https://www.liverpool.ac.uk/courses/advanced-data-science-and-artificial-intelligence-msc). 
+I am a [`BSc (Hons) Computer Science (Artificial Intelligence)`](https://www.liverpool.ac.uk/courses/computer-science-bsc-hons-artificial-intelligence-pathway-2) graduate from the [`University of Liverpool`](https://www.liverpool.ac.uk/courses/computer-science-bsc-hons), and recently concluded my MSc in [`Advanced Data Science and Artificial Intelligence`](https://www.liverpool.ac.uk/courses/advanced-data-science-and-artificial-intelligence-msc). 
 
 In 2025, I was a summer AI Research Intern @ [`Google DeepMind Research Ready Programme`](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-ready/) at the **University of Liverpool**, a programme created by the Royal Academy of Engineering, Google DeepMind and the Hg Foundation.
 
@@ -14,7 +14,7 @@ In 2025, I was a summer AI Research Intern @ [`Google DeepMind Research Ready Pr
   *(Accepted at [`LLMS4KGOE`](https://koncordantlab.github.io/LLM4KGOE-ESWC/) and [`23rd European Semantic Web Conference (ESWC) Demo and Poster track`](https://2026.eswc-conferences.org/calls/poster-demo/))* [<a href="https://github.com/KE-UniLiv/IDEA2">repo</a>] [<a href="https://arxiv.org/pdf/2604.01344">preprint</a>]
 
 - A Collaborative Human-AI Workflow for Ontology Requirement Engineering in Use \
-  *(Accepted at the [`25th edition of the International Semantic Web Conference (ISWC)`](https://iswc2026.semanticweb.org/#/)*
+  *(Accepted at the [`25th edition of the International Semantic Web Conference (ISWC)`](https://iswc2026.semanticweb.org/#/))*
     
 
 
