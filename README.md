@@ -22,18 +22,21 @@ I am currently a research assistant working in ontologies and knowledge engineer
   *(Accepted at the [`25th edition of the International Semantic Web Conference (ISWC)`](https://iswc2026.semanticweb.org/#/))*
     
 
-## Languages and tools ⚒️
+## Languages and libraries ⚒️
 
+### Languages:
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![SPARQL](https://img.shields.io/badge/SPARQL-violet)
 ![OWL](https://img.shields.io/badge/OWL-blue)
-![rdflib](https://img.shields.io/badge/rdflib-purple)
+
+#### Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![SPARQL](https://img.shields.io/badge/SPARQL-violet)
+![rdflib](https://img.shields.io/badge/rdflib-purple)
 
 
