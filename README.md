@@ -8,12 +8,7 @@ In 2025, I was a summer AI Research Intern @ [`Google DeepMind Research Ready Pr
 
 I am currently a research assistant working in ontologies and knowledge engineering under a [`Alan Turing Institute`](https://www.turing.ac.uk/) funded project.
 
-[![My GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=rose)
-
-
-
-
-## Peer-Reviewed Publications
+## Peer-Reviewed Publications 📖
 
 - The AnIML Ontology: Enabling Semantic Interoperability for Large-Scale Experimental Data in Interconnected Scientific Labs \
   *(In proceedings of the [`38th edition of the International Conference on Advanced Information Systems Engineering (CAiSE)`](https://caise26.polimi.it/))* [<a href="https://github.com/KE-UniLiv/animl-ontology">repo</a>]  [<a href="https://doi.org/10.1007/978-3-032-28110-4_8">paper</a>]
@@ -26,5 +21,19 @@ I am currently a research assistant working in ontologies and knowledge engineer
 - A Collaborative Human-AI Workflow for Ontology Requirement Engineering in Use \
   *(Accepted at the [`25th edition of the International Semantic Web Conference (ISWC)`](https://iswc2026.semanticweb.org/#/))*
     
+
+## Languages and tools ⚒️
+
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![OWL](https://img.shields.io/badge/OWL-blue)
+![rdflib](https://img.shields.io/badge/rdflib-purple)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SPARQL](https://img.shields.io/badge/SPARQL-violet)
 
 
