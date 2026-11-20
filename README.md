@@ -2,11 +2,16 @@
 
 I am a research assistant in the [`Knowledge Engineering and Ontologies group`](https://github.com/KE-UniLiv), and [`AI+Music`](https://www.liverpool.ac.uk/computer-science-and-informatics/research/artificial-intelligence/aiplus/ai-music/) groups at the University of Liverpool. I hold an MSc in [`Advanced Data Science and Artificial Intelligence`](https://www.liverpool.ac.uk/courses/advanced-data-science-and-artificial-intelligence-msc) from the University of Liverpool.
 
-During my MSc, I was a teaching assistant for the [COMP346: Music Intelligence`](https://comp346mi.github.io/comp346-26-challenge/) course, a year 3 undergraduate course at UoL covering various music AI topics; I was responsible for marking coursework, and assisting students during labs.
+During my MSc, I was a teaching assistant for the [`COMP346: Music Intelligence`](https://comp346mi.github.io/comp346-26-challenge/) course, a year 3 undergraduate course at UoL covering various music AI topics; I was responsible for marking coursework, and assisting students during labs.
 
 In 2025, I was a summer AI Research Intern @ [`Google DeepMind Research Ready Programme`](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-ready/) at the **University of Liverpool**, a programme created by the Royal Academy of Engineering, Google DeepMind and the Hg Foundation.
 
 I am currently a research assistant working in ontologies and knowledge engineering under a [`Alan Turing Institute`](https://www.turing.ac.uk/) funded project.
+
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=elliottwl)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=rose)
+
+
+
 
 ## Peer-Reviewed Publications
 
