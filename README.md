@@ -8,7 +8,7 @@ In 2025, I was a summer AI Research Intern @ [`Google DeepMind Research Ready Pr
 
 I am currently a research assistant working in ontologies and knowledge engineering under a [`Alan Turing Institute`](https://www.turing.ac.uk/) funded project.
 
-[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=elliottwl)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=rose)
+[![My GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=rose)
 
 
 
