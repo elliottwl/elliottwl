@@ -1,4 +1,5 @@
 <h1 align=center> Hi there 👋 </h1>
+
 I am a research assistant in the [`Knowledge Engineering and Ontologies group`](https://github.com/KE-UniLiv), and [`AI+Music`](https://www.liverpool.ac.uk/computer-science-and-informatics/research/artificial-intelligence/aiplus/ai-music/) groups at the University of Liverpool. I hold an MSc in [`Advanced Data Science and Artificial Intelligence`](https://www.liverpool.ac.uk/courses/advanced-data-science-and-artificial-intelligence-msc) from the University of Liverpool.
 
 During my MSc, I was a teaching assistant for the [COMP346: Music Intelligence`](https://comp346mi.github.io/comp346-26-challenge/) course, a year 3 undergraduate course at UoL covering various music AI topics; I was responsible for marking coursework, and assisting students during labs.
