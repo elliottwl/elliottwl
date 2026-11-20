@@ -24,7 +24,7 @@ I am currently a research assistant working in ontologies and knowledge engineer
 
 ## Languages and libraries ⚒️
 
-### Languages:
+### Languages 🔡
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -33,10 +33,11 @@ I am currently a research assistant working in ontologies and knowledge engineer
 ![SPARQL](https://img.shields.io/badge/SPARQL-violet)
 ![OWL](https://img.shields.io/badge/OWL-blue)
 
-#### Libraries
+### Libraries 📚
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![rdflib](https://img.shields.io/badge/rdflib-purple)
+![PyKEEN](https://img.shields.io/badge/PyKEEN-navy)
 
 
